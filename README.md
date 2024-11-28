@@ -24,4 +24,4 @@ SmartFarm is a web-based application that provides farmers with valuable insight
 
 1. Clone the repository:
    ```sh
-   https://github.com/vaibhavn07/final-bhoomi.git
+   
